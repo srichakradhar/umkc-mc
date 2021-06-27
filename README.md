@@ -1,7 +1,7 @@
 ---
 description: >-
   Guide to initial setup for Minecraft with Checklist to help you track each
-  step after you are done.
+  step.
 ---
 
 # Setup
