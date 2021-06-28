@@ -116,5 +116,5 @@ description: >-
 
 ![WELCOME TO UMKC! ](.gitbook/assets/26-welcome.png)
 
-## Wait for more updates..!
+## Wait for more updates!
 
